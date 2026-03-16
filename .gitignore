@@ -1,5 +1,14 @@
-venv
 venv/
-data/processed/
 __pycache__/
+
+# datasets
+data/raw/
+data/processed/
+
+# model / graph files
 *.pt
+*.pth
+*.ckpt
+
+# optional
+*.csv
