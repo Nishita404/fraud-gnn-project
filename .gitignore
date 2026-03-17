@@ -12,3 +12,8 @@ data/processed/
 
 # optional
 *.csv
+venv/
+data/raw/
+data/processed/
+*.pt
+*.csv
