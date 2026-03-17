@@ -203,3 +203,6 @@ This project was built from scratch as a learning exercise in graph-based machin
 - [PyTorch Geometric Documentation](https://pytorch-geometric.readthedocs.io/)
 - [IEEE-CIS Fraud Detection — Kaggle](https://www.kaggle.com/c/ieee-fraud-detection)
 - [CS224W: Machine Learning with Graphs — Stanford](http://web.stanford.edu/class/cs224w/)
+
+# Contributions
+- NotWrench
